@@ -1,5 +1,11 @@
 # 💫 About Me:
-I'm A Student studying BTECH <br>I’m interested in AI, machine learning,and software devlopment<br>I’m currently learning programming languages<br>I’m looking to collaborate on open-source projects and AI research<br>Fun fact: I'm a tech enthusiant who loves buildinginnovative solutions
+- 👋 Hi, I’m @mandarsalunkhe24
+- 👀 I’m interested in AI, machine learning,and software devlopment
+- 🌱 I’m currently learning programming languages
+- 💞️ I’m looking to collaborate on open-source projects and AI research
+- 📫 How to reach me mandarsalunkhe2324@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm a tech enthusiant who loves buildinginnovative solutions 
 
 
 ## 🌐 Socials:
